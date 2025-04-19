@@ -23,7 +23,6 @@ This guide will walk you through the different ways you can contribute and the p
   - [Frontend Contribution Guidelines](#frontend-contribution-guidelines)
   - [Good First Issues](#good-first-issues)
   - [Pull Request Process](#pull-request-process)
-  - [Code of Conduct](#code-of-conduct)
   - [Community](#community)
 
 ---
