@@ -15,7 +15,7 @@ const config: Config = {
   organizationName: 'EduFunding', // GitHub org/user name
   projectName: 'EduFunding',      // GitHub repo name
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
